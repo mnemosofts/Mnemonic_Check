@@ -9,6 +9,9 @@ Seed (Mnemonic) phrases checker, BTC, ETH, TON, TRX....
 
 **`3)` Click on the `Mnemocheck_installer` and install the program.**
 
+
+All addresses with a balance greater than zero are duplicated in the `goods.txt` file
+
 ___________________________________________________________________________________________________________
 
  ![Image](https://github.com/user-attachments/assets/d7049008-cc3e-4fca-a845-4c526e019529)

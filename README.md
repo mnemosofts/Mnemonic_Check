@@ -7,7 +7,7 @@ Seed (Mnemonic) phrases checker, BTC, ETH, TON, TRX....
 
 **`2)` Unpack the zip.**
 
-**`3)` Click on the `Mnemocheck_installer` and install the program.**
+**`3)` Click on the `MnemoCheck_installer.exe` and install the program.**
 
 
 All addresses with a balance greater than zero are duplicated in the `goods.txt` file
